@@ -124,7 +124,6 @@ public class CarTableController {
         }
        );
         // chcemy zapis przenieść do jakiegoś przycisku
-        zapis();
     }
 
     private void zapis() {
